@@ -1,4 +1,4 @@
-# API-Testing2
+# API-Testing for Simple Books API
 1. GET /status
 Returns the status of the API.
 
